@@ -7,3 +7,7 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
 The problem at hand is to complete the analysis of what sorts of people were likely to survive using Logistic Regression Algorithm
+
+### Instructions to Download and Run the Project:
+- The project folder has two files: The data file named "USA_Housing.csv" and the Jupyter notebook named "Predicting House Prices Using Linear Regression.ipynb"
+- Download the Project folder and run the .ipynb file using Jupyter Notebook
